@@ -1,4 +1,4 @@
-package com.devotion.quoteapp.presentation.main.quote
+package com.devotion.quoteapp.presentation.main.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

@@ -1,4 +1,4 @@
-package com.devotion.quoteapp.presentation.main.quote
+package com.devotion.quoteapp.presentation.main.adapter
 
 import androidx.recyclerview.widget.RecyclerView.ViewHolder
 import com.devotion.quoteapp.R

@@ -11,7 +11,7 @@ import com.devotion.quoteapp.data.repository.QuoteRepository
 import com.devotion.quoteapp.data.repository.QuoteRepositoryImpl
 import com.devotion.quoteapp.data.source.network.services.QuoteApiServices
 import com.devotion.quoteapp.databinding.ActivityMainBinding
-import com.devotion.quoteapp.presentation.main.quote.QuoteAdapter
+import com.devotion.quoteapp.presentation.main.adapter.QuoteAdapter
 import com.devotion.quoteapp.utils.GenericViewModelFactory
 import com.devotion.quoteapp.utils.proceedWhen
 
