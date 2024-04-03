@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuoteApp</string>
+    <string name="text_banner">Find Your Best Quote</string>
+    <string name="text_title_list">Quotes</string>
+    <string name="text_cart_is_empty">Quote is Empty</string>
+    <string name="text_quote">\"%1$s\"</string>
+</resources>
